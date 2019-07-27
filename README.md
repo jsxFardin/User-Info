@@ -14,6 +14,6 @@
     1. npm istall
 ```
 
-* Then rester as user and login.
+* Then register as user and login.
 
 * Users Table design with vue.js
